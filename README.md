@@ -53,7 +53,7 @@ END;
 ```
 
 ### Output:
-![WhatsApp Image 2023-09-26 at 23 04 09](https://github.com/ShakthiSundar-K/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/128116143/c8816d35-3848-496c-a08b-7b7d27d6620b)
+![image](https://github.com/DEVADARSHAN2/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/119432150/0eaa861e-9420-4178-968e-9bba2a823f66)
 
 ### Result:
 THE PROGRAM HAS BEEN IMPLEMENTED SUCCESSFULLY
