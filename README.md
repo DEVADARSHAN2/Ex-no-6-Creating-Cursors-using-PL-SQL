@@ -1,5 +1,5 @@
 # Ex. No: 6 Creating Cursors using PL/SQL
-
+## DATE: 08/09/23
 ### AIM: To create a cursor using PL/SQL.
 
 ### Steps:
@@ -56,4 +56,4 @@ END;
 ![image](https://github.com/DEVADARSHAN2/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/119432150/0eaa861e-9420-4178-968e-9bba2a823f66)
 
 ### Result:
-THE PROGRAM HAS BEEN IMPLEMENTED SUCCESSFULLY
+THE PROGRAM HAS BEEN IMPLEMENTED SUCCESSFULLY.
